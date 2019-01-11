@@ -34,3 +34,4 @@
 *.ilk
 *.pdb
 *.suo
+/RayTraceWeekend/out.ppm
