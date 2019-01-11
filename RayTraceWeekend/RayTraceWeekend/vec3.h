@@ -31,6 +31,8 @@ public:
 
 	void make_unit_length();
 
+	static vec3 ones(){return {1.0f, 1.0f, 1.0f};}
+	static vec3 zeros(){return {0.0f, 0.0f, 0.0f};}
 
 private:
 	friend std::istream& operator>>(std::istream& is, vec3& v);
