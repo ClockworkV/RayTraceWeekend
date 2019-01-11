@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/RayTraceWeekend/RayTraceWeekend/Debug
+*.ilk
+*.pdb
+*.suo
