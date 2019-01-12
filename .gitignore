@@ -35,3 +35,6 @@
 *.pdb
 *.suo
 /RayTraceWeekend/out.ppm
+/RayTraceWeekend/RayTraceWeekend/Release
+/RayTraceWeekend/Release/RayTraceWeekend.iobj
+/RayTraceWeekend/Release/RayTraceWeekend.ipdb
